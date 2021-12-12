@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
       <meta name="description" content="" />
       <meta name="author" content="" />
-      <title>RV Sociedade de Advogados</title>
+      <title>REPO_vida</title>
       <link rel="icon" type="image/x-icon" href="https://startbootstrap.github.io/startbootstrap-agency/assets/img/favicon.ico" />
       <!-- Font Awesome icons (free version)-->
       <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -43,7 +43,7 @@
       <header class="masthead">
          <div class="container">
             <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            <div class="masthead-heading text-uppercase">Sociedade de Advogados</div>
+            <div class="masthead-heading text-uppercase">REPO VIDA NOVA</div>
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" 
                href="https://api.whatsapp.com/send?phone=551194994-6329&text=Ola,%20gostaria%20de%20maiores%20informacoes" target="_blank">Fale Conosco</a>
          </div>
